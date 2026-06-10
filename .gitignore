@@ -1,0 +1,20 @@
+## Java
+*.class
+*.jar
+*.war
+*.ear
+target/
+bin/
+build/
+.classpath
+.project
+.settings/
+/.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+*.iml
